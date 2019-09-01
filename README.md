@@ -1,4 +1,4 @@
-# student-massage
+＃student-manage
 学生管理
 
 # 项目名称: 学生管理系统
